@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SD Card Access</string>
+    <string name="downloads">OPEN DOWNLOADS</string>
+    <string name="music">OPEN MUSIC</string>
+    <string name="documents">OPEN DOCUMENTS</string>
+    <string name="ringtones">OPEN RINGTONES</string>
+    <string name="podcasts">OPEN PODCASTS</string>
+    <string name="movies">OPEN MOVIES</string>
+    <string name="pictures">OPEN PICTURES</string>
+    <string name="alarms">OPEN ALARMS</string>
+    <string name="hint_file_data">Enter File Data</string>
+    <string name="save_to_file">SAVE DATA TO FILE</string>
+    <string name="get_data">GET DATA FROM FILE</string>
+    <string name="access_pictures">ACCESS PICTURES FROM SD CARD</string>
+    <string name="img_desc">Click image to save to device</string>
+</resources>
